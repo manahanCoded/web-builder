@@ -476,21 +476,20 @@ const cardsGrid = [
   {
     id: 1,
     className: "md:col-span-2 row-span-2", // Spans 2 columns and 2 rows
-    thumbnail: "https://img1.wsimg.com/isteam/stock/kayaJdA/:/rs=w:730,h:730,cg:true,m/cr=w:730,h:730",
-    title: "Modern Living Room",
-    description: "Spacious living area with natural lighting"
+    thumbnail: "//img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4460%20Roseworthy-52.jpg-SMALL.JPG/:/",
+    title: "Unlimited Options",
   },
   {
     id: 2,
     className: "col-span-1 row-span-1",
-    thumbnail: "https://img1.wsimg.com/isteam/stock/12792/:/rs=w:730,h:730,cg:true,m/cr=w:730,h:730",
-    title: "Kitchen Overview"
+    thumbnail: "//img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-14.jpg-SMALL.JPG/:/cr=t:0%25,l:0.05%25,w:99.9%25,h:99.9%25",
+    title: "Spacious living area with natural lighting"
   },
   {
     id: 3,
     className: "col-span-1 row-span-1",
-    thumbnail: "https://img1.wsimg.com/isteam/stock/43920/:/rs=w:730,h:730,cg:true,m/cr=w:730,h:730",
-    title: "Master Bedroom"
+    thumbnail: "//img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-45.jpg-SMALL.JPG/:/rs=w:1023,h:681",
+    title: "Great Neighborhood"
   },
 ];
 
