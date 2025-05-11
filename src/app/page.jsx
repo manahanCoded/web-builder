@@ -735,19 +735,19 @@ function FooterMap() {
 
       <footer className="w-screen bg-black text-white py-10 px-6 text-center relative left-1/2 right-1/2 -ml-[50vw] -mr-[50vw]">
         <div className="flex justify-center gap-6 mb-4">
-          <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+          <a href="https://www.facebook.com/MarciHomes/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
             <svg className="w-5 h-5 hover:fill-blue-500 transition" fill="currentColor" viewBox="0 0 24 24">
               <path d="M22 12a10 10 0 10-11.6 9.9v-7h-2v-3h2v-2.3c0-2 1.2-3.1 3-3.1.9 0 1.8.1 1.8.1v2h-1c-1 0-1.3.6-1.3 1.2V12h2.3l-.4 3h-1.9v7A10 10 0 0022 12z" />
             </svg>
           </a>
 
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+          <a href="https://www.instagram.com/marciandlauren_nvrealtors" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
             <svg className="w-5 h-5 hover:fill-pink-500 transition" fill="currentColor" viewBox="0 0 24 24">
               <path d="M12 2.2c3.2 0 3.6 0 4.8.1 1.2.1 1.9.3 2.4.6.5.3.9.7 1.3 1.3.3.5.5 1.2.6 2.4.1 1.2.1 1.6.1 4.8s0 3.6-.1 4.8c-.1 1.2-.3 1.9-.6 2.4a3.7 3.7 0 01-1.3 1.3c-.5.3-1.2.5-2.4.6-1.2.1-1.6.1-4.8.1s-3.6 0-4.8-.1c-1.2-.1-1.9-.3-2.4-.6a3.7 3.7 0 01-1.3-1.3c-.3-.5-.5-1.2-.6-2.4C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.8c.1-1.2.3-1.9.6-2.4a3.7 3.7 0 011.3-1.3c.5-.3 1.2-.5 2.4-.6C8.4 2.2 8.8 2.2 12 2.2zm0 1.8c-3.1 0-3.5 0-4.7.1-1.1.1-1.7.2-2 .4-.5.2-.9.5-1.2.9-.3.4-.5.9-.6 2-.1 1.2-.1 1.6-.1 4.7s0 3.5.1 4.7c.1 1.1.2 1.7.4 2 .2.5.5.9.9 1.2.4.3.9.5 2 .6 1.2.1 1.6.1 4.7.1s3.5 0 4.7-.1c1.1-.1 1.7-.2 2-.4.5-.2.9-.5 1.2-.9.3-.4.5-.9.6-2 .1-1.2.1-1.6.1-4.7s0-3.5-.1-4.7c-.1-1.1-.2-1.7-.4-2a2.4 2.4 0 00-.9-1.2c-.4-.3-.9-.5-2-.6-1.2-.1-1.6-.1-4.7-.1zM12 6.4a5.6 5.6 0 100 11.2 5.6 5.6 0 000-11.2zm0 9.3a3.7 3.7 0 110-7.4 3.7 3.7 0 010 7.4zm4.6-9.6a1.3 1.3 0 100 2.6 1.3 1.3 0 000-2.6z" />
             </svg>
           </a>
 
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/marci-metzger-30642496/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
             <svg className="w-5 h-5 hover:fill-blue-400 transition" fill="currentColor" viewBox="0 0 24 24">
               <path d="M4.98 3.5A2.5 2.5 0 002.5 6c0 1.38 1.12 2.5 2.48 2.5h.02A2.5 2.5 0 007.5 6a2.5 2.5 0 00-2.52-2.5zM3 9h4v12H3zM9 9h3.6v1.71h.05c.5-.95 1.7-1.95 3.5-1.95 3.74 0 4.43 2.45 4.43 5.64V21h-4v-5.6c0-1.33-.03-3.04-1.86-3.04-1.86 0-2.15 1.45-2.15 2.94V21H9z" />
             </svg>
